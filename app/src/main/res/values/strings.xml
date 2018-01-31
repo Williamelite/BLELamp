@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLELamp</string>
+    <string name="no_data">no data</string>
+    <string name="gatt_services_characteristics">gatt_services_characteristics</string>
+    <string name="data_value">data_value</string>
+    <string name="title_devices">title_devices</string>
+    <string name="ble_not_supported">ble_not_supported</string>
+    <string name="error_bluetooth_not_supported">error_bluetooth_not_supported</string>
+
+</resources>
